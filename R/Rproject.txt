@@ -20,6 +20,7 @@ library(ggimage)
 library(stopwords)
 library(rvest)
 library(ggplot2)
+library(urltools)
 
 #ດຶງໄຟລຂໍ້ມູນທີ່ຈະນຳມາວິເຄາະ
 
