@@ -19,7 +19,7 @@ library(ggimage)
 library(stopwords)
 library(rvest)
 library(ggplot2)
-
+library(urltools)
 
 miChat <- rwa_read("C:\\DS File\\R\\bs.txt")
 wdata <- rwa_read("C:\\DS File\\R\\bs.txt")
